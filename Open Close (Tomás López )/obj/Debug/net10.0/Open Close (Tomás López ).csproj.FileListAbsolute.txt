@@ -1,0 +1,15 @@
+C:\Users\tomas\OneDrive - UCO\Escritorio\poo\Open Close (Tomás López )\Open Close (Tomás López )\obj\Debug\net10.0\Open Close (Tomás López ).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tomas\OneDrive - UCO\Escritorio\poo\Open Close (Tomás López )\Open Close (Tomás López )\obj\Debug\net10.0\Open Close (Tomás López ).AssemblyInfoInputs.cache
+C:\Users\tomas\OneDrive - UCO\Escritorio\poo\Open Close (Tomás López )\Open Close (Tomás López )\obj\Debug\net10.0\Open Close (Tomás López ).AssemblyInfo.cs
+C:\Users\tomas\OneDrive - UCO\Escritorio\poo\Open Close (Tomás López )\Open Close (Tomás López )\obj\Debug\net10.0\Open Close (Tomás López ).csproj.CoreCompileInputs.cache
+C:\Users\tomas\OneDrive - UCO\Escritorio\poo\Open Close (Tomás López )\Open Close (Tomás López )\bin\Debug\net10.0\Open Close (Tomás López ).exe
+C:\Users\tomas\OneDrive - UCO\Escritorio\poo\Open Close (Tomás López )\Open Close (Tomás López )\bin\Debug\net10.0\Open Close (Tomás López ).deps.json
+C:\Users\tomas\OneDrive - UCO\Escritorio\poo\Open Close (Tomás López )\Open Close (Tomás López )\bin\Debug\net10.0\Open Close (Tomás López ).runtimeconfig.json
+C:\Users\tomas\OneDrive - UCO\Escritorio\poo\Open Close (Tomás López )\Open Close (Tomás López )\bin\Debug\net10.0\Open Close (Tomás López ).dll
+C:\Users\tomas\OneDrive - UCO\Escritorio\poo\Open Close (Tomás López )\Open Close (Tomás López )\bin\Debug\net10.0\Open Close (Tomás López ).pdb
+C:\Users\tomas\OneDrive - UCO\Escritorio\poo\Open Close (Tomás López )\Open Close (Tomás López )\obj\Debug\net10.0\Open Close (Tomás López ).dll
+C:\Users\tomas\OneDrive - UCO\Escritorio\poo\Open Close (Tomás López )\Open Close (Tomás López )\obj\Debug\net10.0\refint\Open Close (Tomás López ).dll
+C:\Users\tomas\OneDrive - UCO\Escritorio\poo\Open Close (Tomás López )\Open Close (Tomás López )\obj\Debug\net10.0\Open Close (Tomás López ).pdb
+C:\Users\tomas\OneDrive - UCO\Escritorio\poo\Open Close (Tomás López )\Open Close (Tomás López )\obj\Debug\net10.0\Open Close (Tomás López ).genruntimeconfig.cache
+C:\Users\tomas\OneDrive - UCO\Escritorio\poo\Open Close (Tomás López )\Open Close (Tomás López )\obj\Debug\net10.0\ref\Open Close (Tomás López ).dll
+C:\Users\tomas\OneDrive - UCO\Escritorio\poo\Open Close (Tomás López )\Open Close (Tomás López )\obj\Debug\net10.0\Open Clo.0AB59DE0.Up2Date

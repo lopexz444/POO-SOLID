@@ -1,0 +1,157 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tomas\\OneDrive - UCO\\Escritorio\\poo\\Open Close (Tom\u00E1s L\u00F3pez )\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A33861B8-6BFF-DB7F-2409-67C5669BA71B}|Open Close (Tom\u00E1s L\u00F3pez )\\Open Close (Tom\u00E1s L\u00F3pez ).csproj|c:\\users\\tomas\\onedrive - uco\\escritorio\\poo\\open close (tom\u00E1s l\u00F3pez )\\open close (tom\u00E1s l\u00F3pez )\\areacalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A33861B8-6BFF-DB7F-2409-67C5669BA71B}|Open Close (Tom\u00E1s L\u00F3pez )\\Open Close (Tom\u00E1s L\u00F3pez ).csproj|solutionrelative:open close (tom\u00E1s l\u00F3pez )\\areacalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A33861B8-6BFF-DB7F-2409-67C5669BA71B}|Open Close (Tom\u00E1s L\u00F3pez )\\Open Close (Tom\u00E1s L\u00F3pez ).csproj|c:\\users\\tomas\\onedrive - uco\\escritorio\\poo\\open close (tom\u00E1s l\u00F3pez )\\open close (tom\u00E1s l\u00F3pez )\\rectangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A33861B8-6BFF-DB7F-2409-67C5669BA71B}|Open Close (Tom\u00E1s L\u00F3pez )\\Open Close (Tom\u00E1s L\u00F3pez ).csproj|solutionrelative:open close (tom\u00E1s l\u00F3pez )\\rectangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A33861B8-6BFF-DB7F-2409-67C5669BA71B}|Open Close (Tom\u00E1s L\u00F3pez )\\Open Close (Tom\u00E1s L\u00F3pez ).csproj|c:\\users\\tomas\\onedrive - uco\\escritorio\\poo\\open close (tom\u00E1s l\u00F3pez )\\open close (tom\u00E1s l\u00F3pez )\\triangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A33861B8-6BFF-DB7F-2409-67C5669BA71B}|Open Close (Tom\u00E1s L\u00F3pez )\\Open Close (Tom\u00E1s L\u00F3pez ).csproj|solutionrelative:open close (tom\u00E1s l\u00F3pez )\\triangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A33861B8-6BFF-DB7F-2409-67C5669BA71B}|Open Close (Tom\u00E1s L\u00F3pez )\\Open Close (Tom\u00E1s L\u00F3pez ).csproj|c:\\users\\tomas\\onedrive - uco\\escritorio\\poo\\open close (tom\u00E1s l\u00F3pez )\\open close (tom\u00E1s l\u00F3pez )\\square.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A33861B8-6BFF-DB7F-2409-67C5669BA71B}|Open Close (Tom\u00E1s L\u00F3pez )\\Open Close (Tom\u00E1s L\u00F3pez ).csproj|solutionrelative:open close (tom\u00E1s l\u00F3pez )\\square.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A33861B8-6BFF-DB7F-2409-67C5669BA71B}|Open Close (Tom\u00E1s L\u00F3pez )\\Open Close (Tom\u00E1s L\u00F3pez ).csproj|c:\\users\\tomas\\onedrive - uco\\escritorio\\poo\\open close (tom\u00E1s l\u00F3pez )\\open close (tom\u00E1s l\u00F3pez )\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A33861B8-6BFF-DB7F-2409-67C5669BA71B}|Open Close (Tom\u00E1s L\u00F3pez )\\Open Close (Tom\u00E1s L\u00F3pez ).csproj|solutionrelative:open close (tom\u00E1s l\u00F3pez )\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A33861B8-6BFF-DB7F-2409-67C5669BA71B}|Open Close (Tom\u00E1s L\u00F3pez )\\Open Close (Tom\u00E1s L\u00F3pez ).csproj|c:\\users\\tomas\\onedrive - uco\\escritorio\\poo\\open close (tom\u00E1s l\u00F3pez )\\open close (tom\u00E1s l\u00F3pez )\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A33861B8-6BFF-DB7F-2409-67C5669BA71B}|Open Close (Tom\u00E1s L\u00F3pez )\\Open Close (Tom\u00E1s L\u00F3pez ).csproj|solutionrelative:open close (tom\u00E1s l\u00F3pez )\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A33861B8-6BFF-DB7F-2409-67C5669BA71B}|Open Close (Tom\u00E1s L\u00F3pez )\\Open Close (Tom\u00E1s L\u00F3pez ).csproj|c:\\users\\tomas\\onedrive - uco\\escritorio\\poo\\open close (tom\u00E1s l\u00F3pez )\\open close (tom\u00E1s l\u00F3pez )\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A33861B8-6BFF-DB7F-2409-67C5669BA71B}|Open Close (Tom\u00E1s L\u00F3pez )\\Open Close (Tom\u00E1s L\u00F3pez ).csproj|solutionrelative:open close (tom\u00E1s l\u00F3pez )\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A33861B8-6BFF-DB7F-2409-67C5669BA71B}|Open Close (Tom\u00E1s L\u00F3pez )\\Open Close (Tom\u00E1s L\u00F3pez ).csproj|c:\\users\\tomas\\onedrive - uco\\escritorio\\poo\\open close (tom\u00E1s l\u00F3pez )\\open close (tom\u00E1s l\u00F3pez )\\rombo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A33861B8-6BFF-DB7F-2409-67C5669BA71B}|Open Close (Tom\u00E1s L\u00F3pez )\\Open Close (Tom\u00E1s L\u00F3pez ).csproj|solutionrelative:open close (tom\u00E1s l\u00F3pez )\\rombo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1a7f2c3-8d4b-42e6-9f75-2a3b6c8e9d40}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Rectangulo.cs",
+              "DocumentMoniker": "C:\\Users\\tomas\\OneDrive - UCO\\Escritorio\\poo\\Open Close (Tom\u00E1s L\u00F3pez )\\Open Close (Tom\u00E1s L\u00F3pez )\\Rectangulo.cs",
+              "RelativeDocumentMoniker": "Open Close (Tom\u00E1s L\u00F3pez )\\Rectangulo.cs",
+              "ToolTip": "C:\\Users\\tomas\\OneDrive - UCO\\Escritorio\\poo\\Open Close (Tom\u00E1s L\u00F3pez )\\Open Close (Tom\u00E1s L\u00F3pez )\\Rectangulo.cs",
+              "RelativeToolTip": "Open Close (Tom\u00E1s L\u00F3pez )\\Rectangulo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-30T04:49:17.169Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Triangulo.cs",
+              "DocumentMoniker": "C:\\Users\\tomas\\OneDrive - UCO\\Escritorio\\poo\\Open Close (Tom\u00E1s L\u00F3pez )\\Open Close (Tom\u00E1s L\u00F3pez )\\Triangulo.cs",
+              "RelativeDocumentMoniker": "Open Close (Tom\u00E1s L\u00F3pez )\\Triangulo.cs",
+              "ToolTip": "C:\\Users\\tomas\\OneDrive - UCO\\Escritorio\\poo\\Open Close (Tom\u00E1s L\u00F3pez )\\Open Close (Tom\u00E1s L\u00F3pez )\\Triangulo.cs",
+              "RelativeToolTip": "Open Close (Tom\u00E1s L\u00F3pez )\\Triangulo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-30T04:48:30.142Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Square.cs",
+              "DocumentMoniker": "C:\\Users\\tomas\\OneDrive - UCO\\Escritorio\\poo\\Open Close (Tom\u00E1s L\u00F3pez )\\Open Close (Tom\u00E1s L\u00F3pez )\\Square.cs",
+              "RelativeDocumentMoniker": "Open Close (Tom\u00E1s L\u00F3pez )\\Square.cs",
+              "ToolTip": "C:\\Users\\tomas\\OneDrive - UCO\\Escritorio\\poo\\Open Close (Tom\u00E1s L\u00F3pez )\\Open Close (Tom\u00E1s L\u00F3pez )\\Square.cs",
+              "RelativeToolTip": "Open Close (Tom\u00E1s L\u00F3pez )\\Square.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-30T04:47:44.959Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Shape.cs",
+              "DocumentMoniker": "C:\\Users\\tomas\\OneDrive - UCO\\Escritorio\\poo\\Open Close (Tom\u00E1s L\u00F3pez )\\Open Close (Tom\u00E1s L\u00F3pez )\\Shape.cs",
+              "RelativeDocumentMoniker": "Open Close (Tom\u00E1s L\u00F3pez )\\Shape.cs",
+              "ToolTip": "C:\\Users\\tomas\\OneDrive - UCO\\Escritorio\\poo\\Open Close (Tom\u00E1s L\u00F3pez )\\Open Close (Tom\u00E1s L\u00F3pez )\\Shape.cs",
+              "RelativeToolTip": "Open Close (Tom\u00E1s L\u00F3pez )\\Shape.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-30T04:46:40.018Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Circle.cs",
+              "DocumentMoniker": "C:\\Users\\tomas\\OneDrive - UCO\\Escritorio\\poo\\Open Close (Tom\u00E1s L\u00F3pez )\\Open Close (Tom\u00E1s L\u00F3pez )\\Circle.cs",
+              "RelativeDocumentMoniker": "Open Close (Tom\u00E1s L\u00F3pez )\\Circle.cs",
+              "ToolTip": "C:\\Users\\tomas\\OneDrive - UCO\\Escritorio\\poo\\Open Close (Tom\u00E1s L\u00F3pez )\\Open Close (Tom\u00E1s L\u00F3pez )\\Circle.cs",
+              "RelativeToolTip": "Open Close (Tom\u00E1s L\u00F3pez )\\Circle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-30T04:45:44.996Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\tomas\\OneDrive - UCO\\Escritorio\\poo\\Open Close (Tom\u00E1s L\u00F3pez )\\Open Close (Tom\u00E1s L\u00F3pez )\\Program.cs",
+              "RelativeDocumentMoniker": "Open Close (Tom\u00E1s L\u00F3pez )\\Program.cs",
+              "ToolTip": "C:\\Users\\tomas\\OneDrive - UCO\\Escritorio\\poo\\Open Close (Tom\u00E1s L\u00F3pez )\\Open Close (Tom\u00E1s L\u00F3pez )\\Program.cs",
+              "RelativeToolTip": "Open Close (Tom\u00E1s L\u00F3pez )\\Program.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAAAFEAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-30T04:41:36.673Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AreaCalculator.cs",
+              "DocumentMoniker": "C:\\Users\\tomas\\OneDrive - UCO\\Escritorio\\poo\\Open Close (Tom\u00E1s L\u00F3pez )\\Open Close (Tom\u00E1s L\u00F3pez )\\AreaCalculator.cs",
+              "RelativeDocumentMoniker": "Open Close (Tom\u00E1s L\u00F3pez )\\AreaCalculator.cs",
+              "ToolTip": "C:\\Users\\tomas\\OneDrive - UCO\\Escritorio\\poo\\Open Close (Tom\u00E1s L\u00F3pez )\\Open Close (Tom\u00E1s L\u00F3pez )\\AreaCalculator.cs",
+              "RelativeToolTip": "Open Close (Tom\u00E1s L\u00F3pez )\\AreaCalculator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-30T04:44:54.518Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Rombo.cs",
+              "DocumentMoniker": "C:\\Users\\tomas\\OneDrive - UCO\\Escritorio\\poo\\Open Close (Tom\u00E1s L\u00F3pez )\\Open Close (Tom\u00E1s L\u00F3pez )\\Rombo.cs",
+              "RelativeDocumentMoniker": "Open Close (Tom\u00E1s L\u00F3pez )\\Rombo.cs",
+              "ToolTip": "C:\\Users\\tomas\\OneDrive - UCO\\Escritorio\\poo\\Open Close (Tom\u00E1s L\u00F3pez )\\Open Close (Tom\u00E1s L\u00F3pez )\\Rombo.cs",
+              "RelativeToolTip": "Open Close (Tom\u00E1s L\u00F3pez )\\Rombo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-30T04:51:05.053Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
