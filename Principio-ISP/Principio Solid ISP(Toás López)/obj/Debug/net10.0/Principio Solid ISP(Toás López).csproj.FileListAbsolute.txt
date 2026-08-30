@@ -1,0 +1,15 @@
+C:\Users\tomas\OneDrive - UCO\Escritorio\poo\Principio Solid ISP(Toás López)\Principio Solid ISP(Toás López)\bin\Debug\net10.0\Principio Solid ISP(Toás López).exe
+C:\Users\tomas\OneDrive - UCO\Escritorio\poo\Principio Solid ISP(Toás López)\Principio Solid ISP(Toás López)\bin\Debug\net10.0\Principio Solid ISP(Toás López).deps.json
+C:\Users\tomas\OneDrive - UCO\Escritorio\poo\Principio Solid ISP(Toás López)\Principio Solid ISP(Toás López)\bin\Debug\net10.0\Principio Solid ISP(Toás López).runtimeconfig.json
+C:\Users\tomas\OneDrive - UCO\Escritorio\poo\Principio Solid ISP(Toás López)\Principio Solid ISP(Toás López)\bin\Debug\net10.0\Principio Solid ISP(Toás López).dll
+C:\Users\tomas\OneDrive - UCO\Escritorio\poo\Principio Solid ISP(Toás López)\Principio Solid ISP(Toás López)\bin\Debug\net10.0\Principio Solid ISP(Toás López).pdb
+C:\Users\tomas\OneDrive - UCO\Escritorio\poo\Principio Solid ISP(Toás López)\Principio Solid ISP(Toás López)\obj\Debug\net10.0\Principio Solid ISP(Toás López).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tomas\OneDrive - UCO\Escritorio\poo\Principio Solid ISP(Toás López)\Principio Solid ISP(Toás López)\obj\Debug\net10.0\Principio Solid ISP(Toás López).AssemblyInfoInputs.cache
+C:\Users\tomas\OneDrive - UCO\Escritorio\poo\Principio Solid ISP(Toás López)\Principio Solid ISP(Toás López)\obj\Debug\net10.0\Principio Solid ISP(Toás López).AssemblyInfo.cs
+C:\Users\tomas\OneDrive - UCO\Escritorio\poo\Principio Solid ISP(Toás López)\Principio Solid ISP(Toás López)\obj\Debug\net10.0\Principio Solid ISP(Toás López).csproj.CoreCompileInputs.cache
+C:\Users\tomas\OneDrive - UCO\Escritorio\poo\Principio Solid ISP(Toás López)\Principio Solid ISP(Toás López)\obj\Debug\net10.0\Principio Solid ISP(Toás López).dll
+C:\Users\tomas\OneDrive - UCO\Escritorio\poo\Principio Solid ISP(Toás López)\Principio Solid ISP(Toás López)\obj\Debug\net10.0\refint\Principio Solid ISP(Toás López).dll
+C:\Users\tomas\OneDrive - UCO\Escritorio\poo\Principio Solid ISP(Toás López)\Principio Solid ISP(Toás López)\obj\Debug\net10.0\Principio Solid ISP(Toás López).pdb
+C:\Users\tomas\OneDrive - UCO\Escritorio\poo\Principio Solid ISP(Toás López)\Principio Solid ISP(Toás López)\obj\Debug\net10.0\Principio Solid ISP(Toás López).genruntimeconfig.cache
+C:\Users\tomas\OneDrive - UCO\Escritorio\poo\Principio Solid ISP(Toás López)\Principio Solid ISP(Toás López)\obj\Debug\net10.0\ref\Principio Solid ISP(Toás López).dll
+C:\Users\tomas\OneDrive - UCO\Escritorio\poo\Principio Solid ISP(Toás López)\Principio Solid ISP(Toás López)\obj\Debug\net10.0\Principi.0736B1BB.Up2Date

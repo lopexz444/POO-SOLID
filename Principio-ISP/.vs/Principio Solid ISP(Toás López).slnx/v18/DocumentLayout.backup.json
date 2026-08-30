@@ -1,0 +1,113 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tomas\\OneDrive - UCO\\Escritorio\\poo\\Principio Solid ISP(To\u00E1s L\u00F3pez)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A9487AC2-97B2-434B-9133-D481AC2578CC}|Principio Solid ISP(To\u00E1s L\u00F3pez)\\Principio Solid ISP(To\u00E1s L\u00F3pez).csproj|c:\\users\\tomas\\onedrive - uco\\escritorio\\poo\\principio solid isp(to\u00E1s l\u00F3pez)\\principio solid isp(to\u00E1s l\u00F3pez)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9487AC2-97B2-434B-9133-D481AC2578CC}|Principio Solid ISP(To\u00E1s L\u00F3pez)\\Principio Solid ISP(To\u00E1s L\u00F3pez).csproj|solutionrelative:principio solid isp(to\u00E1s l\u00F3pez)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9487AC2-97B2-434B-9133-D481AC2578CC}|Principio Solid ISP(To\u00E1s L\u00F3pez)\\Principio Solid ISP(To\u00E1s L\u00F3pez).csproj|c:\\users\\tomas\\onedrive - uco\\escritorio\\poo\\principio solid isp(to\u00E1s l\u00F3pez)\\principio solid isp(to\u00E1s l\u00F3pez)\\robot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9487AC2-97B2-434B-9133-D481AC2578CC}|Principio Solid ISP(To\u00E1s L\u00F3pez)\\Principio Solid ISP(To\u00E1s L\u00F3pez).csproj|solutionrelative:principio solid isp(to\u00E1s l\u00F3pez)\\robot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9487AC2-97B2-434B-9133-D481AC2578CC}|Principio Solid ISP(To\u00E1s L\u00F3pez)\\Principio Solid ISP(To\u00E1s L\u00F3pez).csproj|c:\\users\\tomas\\onedrive - uco\\escritorio\\poo\\principio solid isp(to\u00E1s l\u00F3pez)\\principio solid isp(to\u00E1s l\u00F3pez)\\humano.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9487AC2-97B2-434B-9133-D481AC2578CC}|Principio Solid ISP(To\u00E1s L\u00F3pez)\\Principio Solid ISP(To\u00E1s L\u00F3pez).csproj|solutionrelative:principio solid isp(to\u00E1s l\u00F3pez)\\humano.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9487AC2-97B2-434B-9133-D481AC2578CC}|Principio Solid ISP(To\u00E1s L\u00F3pez)\\Principio Solid ISP(To\u00E1s L\u00F3pez).csproj|c:\\users\\tomas\\onedrive - uco\\escritorio\\poo\\principio solid isp(to\u00E1s l\u00F3pez)\\principio solid isp(to\u00E1s l\u00F3pez)\\eat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9487AC2-97B2-434B-9133-D481AC2578CC}|Principio Solid ISP(To\u00E1s L\u00F3pez)\\Principio Solid ISP(To\u00E1s L\u00F3pez).csproj|solutionrelative:principio solid isp(to\u00E1s l\u00F3pez)\\eat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9487AC2-97B2-434B-9133-D481AC2578CC}|Principio Solid ISP(To\u00E1s L\u00F3pez)\\Principio Solid ISP(To\u00E1s L\u00F3pez).csproj|c:\\users\\tomas\\onedrive - uco\\escritorio\\poo\\principio solid isp(to\u00E1s l\u00F3pez)\\principio solid isp(to\u00E1s l\u00F3pez)\\trabajador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9487AC2-97B2-434B-9133-D481AC2578CC}|Principio Solid ISP(To\u00E1s L\u00F3pez)\\Principio Solid ISP(To\u00E1s L\u00F3pez).csproj|solutionrelative:principio solid isp(to\u00E1s l\u00F3pez)\\trabajador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1a7f2c3-8d4b-42e6-9f75-2a3b6c8e9d40}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Robot.cs",
+              "DocumentMoniker": "C:\\Users\\tomas\\OneDrive - UCO\\Escritorio\\poo\\Principio Solid ISP(To\u00E1s L\u00F3pez)\\Principio Solid ISP(To\u00E1s L\u00F3pez)\\Robot.cs",
+              "RelativeDocumentMoniker": "Principio Solid ISP(To\u00E1s L\u00F3pez)\\Robot.cs",
+              "ToolTip": "C:\\Users\\tomas\\OneDrive - UCO\\Escritorio\\poo\\Principio Solid ISP(To\u00E1s L\u00F3pez)\\Principio Solid ISP(To\u00E1s L\u00F3pez)\\Robot.cs",
+              "RelativeToolTip": "Principio Solid ISP(To\u00E1s L\u00F3pez)\\Robot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-30T05:41:55.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Humano.cs",
+              "DocumentMoniker": "C:\\Users\\tomas\\OneDrive - UCO\\Escritorio\\poo\\Principio Solid ISP(To\u00E1s L\u00F3pez)\\Principio Solid ISP(To\u00E1s L\u00F3pez)\\Humano.cs",
+              "RelativeDocumentMoniker": "Principio Solid ISP(To\u00E1s L\u00F3pez)\\Humano.cs",
+              "ToolTip": "C:\\Users\\tomas\\OneDrive - UCO\\Escritorio\\poo\\Principio Solid ISP(To\u00E1s L\u00F3pez)\\Principio Solid ISP(To\u00E1s L\u00F3pez)\\Humano.cs",
+              "RelativeToolTip": "Principio Solid ISP(To\u00E1s L\u00F3pez)\\Humano.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-30T05:39:10.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Eat.cs",
+              "DocumentMoniker": "C:\\Users\\tomas\\OneDrive - UCO\\Escritorio\\poo\\Principio Solid ISP(To\u00E1s L\u00F3pez)\\Principio Solid ISP(To\u00E1s L\u00F3pez)\\Eat.cs",
+              "RelativeDocumentMoniker": "Principio Solid ISP(To\u00E1s L\u00F3pez)\\Eat.cs",
+              "ToolTip": "C:\\Users\\tomas\\OneDrive - UCO\\Escritorio\\poo\\Principio Solid ISP(To\u00E1s L\u00F3pez)\\Principio Solid ISP(To\u00E1s L\u00F3pez)\\Eat.cs",
+              "RelativeToolTip": "Principio Solid ISP(To\u00E1s L\u00F3pez)\\Eat.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-30T05:37:52.24Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Trabajador.cs",
+              "DocumentMoniker": "C:\\Users\\tomas\\OneDrive - UCO\\Escritorio\\poo\\Principio Solid ISP(To\u00E1s L\u00F3pez)\\Principio Solid ISP(To\u00E1s L\u00F3pez)\\Trabajador.cs",
+              "RelativeDocumentMoniker": "Principio Solid ISP(To\u00E1s L\u00F3pez)\\Trabajador.cs",
+              "ToolTip": "C:\\Users\\tomas\\OneDrive - UCO\\Escritorio\\poo\\Principio Solid ISP(To\u00E1s L\u00F3pez)\\Principio Solid ISP(To\u00E1s L\u00F3pez)\\Trabajador.cs",
+              "RelativeToolTip": "Principio Solid ISP(To\u00E1s L\u00F3pez)\\Trabajador.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-30T05:36:38.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\tomas\\OneDrive - UCO\\Escritorio\\poo\\Principio Solid ISP(To\u00E1s L\u00F3pez)\\Principio Solid ISP(To\u00E1s L\u00F3pez)\\Program.cs",
+              "RelativeDocumentMoniker": "Principio Solid ISP(To\u00E1s L\u00F3pez)\\Program.cs",
+              "ToolTip": "C:\\Users\\tomas\\OneDrive - UCO\\Escritorio\\poo\\Principio Solid ISP(To\u00E1s L\u00F3pez)\\Principio Solid ISP(To\u00E1s L\u00F3pez)\\Program.cs",
+              "RelativeToolTip": "Principio Solid ISP(To\u00E1s L\u00F3pez)\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-30T05:36:01.123Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
