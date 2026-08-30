@@ -1,0 +1,96 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tomas\\OneDrive - UCO\\Escritorio\\poo\\Principio solid LSP(Tom\u00E1s L\u00F3pez)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CD2A1D6C-9BCB-4468-83EF-A90E60D40BC4}|Principio solid LSP(Tom\u00E1s L\u00F3pez)\\Principio solid LSP(Tom\u00E1s L\u00F3pez).csproj|c:\\users\\tomas\\onedrive - uco\\escritorio\\poo\\principio solid lsp(tom\u00E1s l\u00F3pez)\\principio solid lsp(tom\u00E1s l\u00F3pez)\\pastor aleman.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD2A1D6C-9BCB-4468-83EF-A90E60D40BC4}|Principio solid LSP(Tom\u00E1s L\u00F3pez)\\Principio solid LSP(Tom\u00E1s L\u00F3pez).csproj|solutionrelative:principio solid lsp(tom\u00E1s l\u00F3pez)\\pastor aleman.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD2A1D6C-9BCB-4468-83EF-A90E60D40BC4}|Principio solid LSP(Tom\u00E1s L\u00F3pez)\\Principio solid LSP(Tom\u00E1s L\u00F3pez).csproj|c:\\users\\tomas\\onedrive - uco\\escritorio\\poo\\principio solid lsp(tom\u00E1s l\u00F3pez)\\principio solid lsp(tom\u00E1s l\u00F3pez)\\perro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD2A1D6C-9BCB-4468-83EF-A90E60D40BC4}|Principio solid LSP(Tom\u00E1s L\u00F3pez)\\Principio solid LSP(Tom\u00E1s L\u00F3pez).csproj|solutionrelative:principio solid lsp(tom\u00E1s l\u00F3pez)\\perro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD2A1D6C-9BCB-4468-83EF-A90E60D40BC4}|Principio solid LSP(Tom\u00E1s L\u00F3pez)\\Principio solid LSP(Tom\u00E1s L\u00F3pez).csproj|c:\\users\\tomas\\onedrive - uco\\escritorio\\poo\\principio solid lsp(tom\u00E1s l\u00F3pez)\\principio solid lsp(tom\u00E1s l\u00F3pez)\\perromudo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD2A1D6C-9BCB-4468-83EF-A90E60D40BC4}|Principio solid LSP(Tom\u00E1s L\u00F3pez)\\Principio solid LSP(Tom\u00E1s L\u00F3pez).csproj|solutionrelative:principio solid lsp(tom\u00E1s l\u00F3pez)\\perromudo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD2A1D6C-9BCB-4468-83EF-A90E60D40BC4}|Principio solid LSP(Tom\u00E1s L\u00F3pez)\\Principio solid LSP(Tom\u00E1s L\u00F3pez).csproj|c:\\users\\tomas\\onedrive - uco\\escritorio\\poo\\principio solid lsp(tom\u00E1s l\u00F3pez)\\principio solid lsp(tom\u00E1s l\u00F3pez)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD2A1D6C-9BCB-4468-83EF-A90E60D40BC4}|Principio solid LSP(Tom\u00E1s L\u00F3pez)\\Principio solid LSP(Tom\u00E1s L\u00F3pez).csproj|solutionrelative:principio solid lsp(tom\u00E1s l\u00F3pez)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1a7f2c3-8d4b-42e6-9f75-2a3b6c8e9d40}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Perro.cs",
+              "DocumentMoniker": "C:\\Users\\tomas\\OneDrive - UCO\\Escritorio\\poo\\Principio solid LSP(Tom\u00E1s L\u00F3pez)\\Principio solid LSP(Tom\u00E1s L\u00F3pez)\\Perro.cs",
+              "RelativeDocumentMoniker": "Principio solid LSP(Tom\u00E1s L\u00F3pez)\\Perro.cs",
+              "ToolTip": "C:\\Users\\tomas\\OneDrive - UCO\\Escritorio\\poo\\Principio solid LSP(Tom\u00E1s L\u00F3pez)\\Principio solid LSP(Tom\u00E1s L\u00F3pez)\\Perro.cs",
+              "RelativeToolTip": "Principio solid LSP(Tom\u00E1s L\u00F3pez)\\Perro.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-30T05:31:58.943Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PerroMudo.cs",
+              "DocumentMoniker": "C:\\Users\\tomas\\OneDrive - UCO\\Escritorio\\poo\\Principio solid LSP(Tom\u00E1s L\u00F3pez)\\Principio solid LSP(Tom\u00E1s L\u00F3pez)\\PerroMudo.cs",
+              "RelativeDocumentMoniker": "Principio solid LSP(Tom\u00E1s L\u00F3pez)\\PerroMudo.cs",
+              "ToolTip": "C:\\Users\\tomas\\OneDrive - UCO\\Escritorio\\poo\\Principio solid LSP(Tom\u00E1s L\u00F3pez)\\Principio solid LSP(Tom\u00E1s L\u00F3pez)\\PerroMudo.cs",
+              "RelativeToolTip": "Principio solid LSP(Tom\u00E1s L\u00F3pez)\\PerroMudo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-30T05:31:49.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Pastor Aleman.cs",
+              "DocumentMoniker": "C:\\Users\\tomas\\OneDrive - UCO\\Escritorio\\poo\\Principio solid LSP(Tom\u00E1s L\u00F3pez)\\Principio solid LSP(Tom\u00E1s L\u00F3pez)\\Pastor Aleman.cs",
+              "RelativeDocumentMoniker": "Principio solid LSP(Tom\u00E1s L\u00F3pez)\\Pastor Aleman.cs",
+              "ToolTip": "C:\\Users\\tomas\\OneDrive - UCO\\Escritorio\\poo\\Principio solid LSP(Tom\u00E1s L\u00F3pez)\\Principio solid LSP(Tom\u00E1s L\u00F3pez)\\Pastor Aleman.cs",
+              "RelativeToolTip": "Principio solid LSP(Tom\u00E1s L\u00F3pez)\\Pastor Aleman.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-30T05:30:10.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\tomas\\OneDrive - UCO\\Escritorio\\poo\\Principio solid LSP(Tom\u00E1s L\u00F3pez)\\Principio solid LSP(Tom\u00E1s L\u00F3pez)\\Program.cs",
+              "RelativeDocumentMoniker": "Principio solid LSP(Tom\u00E1s L\u00F3pez)\\Program.cs",
+              "ToolTip": "C:\\Users\\tomas\\OneDrive - UCO\\Escritorio\\poo\\Principio solid LSP(Tom\u00E1s L\u00F3pez)\\Principio solid LSP(Tom\u00E1s L\u00F3pez)\\Program.cs",
+              "RelativeToolTip": "Principio solid LSP(Tom\u00E1s L\u00F3pez)\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-30T05:29:58.241Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

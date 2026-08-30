@@ -1,0 +1,15 @@
+C:\Users\tomas\OneDrive - UCO\Escritorio\poo\Principio solid LSP(Tomás López)\Principio solid LSP(Tomás López)\bin\Debug\net10.0\Principio solid LSP(Tomás López).exe
+C:\Users\tomas\OneDrive - UCO\Escritorio\poo\Principio solid LSP(Tomás López)\Principio solid LSP(Tomás López)\bin\Debug\net10.0\Principio solid LSP(Tomás López).deps.json
+C:\Users\tomas\OneDrive - UCO\Escritorio\poo\Principio solid LSP(Tomás López)\Principio solid LSP(Tomás López)\bin\Debug\net10.0\Principio solid LSP(Tomás López).runtimeconfig.json
+C:\Users\tomas\OneDrive - UCO\Escritorio\poo\Principio solid LSP(Tomás López)\Principio solid LSP(Tomás López)\bin\Debug\net10.0\Principio solid LSP(Tomás López).dll
+C:\Users\tomas\OneDrive - UCO\Escritorio\poo\Principio solid LSP(Tomás López)\Principio solid LSP(Tomás López)\bin\Debug\net10.0\Principio solid LSP(Tomás López).pdb
+C:\Users\tomas\OneDrive - UCO\Escritorio\poo\Principio solid LSP(Tomás López)\Principio solid LSP(Tomás López)\obj\Debug\net10.0\Principio solid LSP(Tomás López).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tomas\OneDrive - UCO\Escritorio\poo\Principio solid LSP(Tomás López)\Principio solid LSP(Tomás López)\obj\Debug\net10.0\Principio solid LSP(Tomás López).AssemblyInfoInputs.cache
+C:\Users\tomas\OneDrive - UCO\Escritorio\poo\Principio solid LSP(Tomás López)\Principio solid LSP(Tomás López)\obj\Debug\net10.0\Principio solid LSP(Tomás López).AssemblyInfo.cs
+C:\Users\tomas\OneDrive - UCO\Escritorio\poo\Principio solid LSP(Tomás López)\Principio solid LSP(Tomás López)\obj\Debug\net10.0\Principio solid LSP(Tomás López).csproj.CoreCompileInputs.cache
+C:\Users\tomas\OneDrive - UCO\Escritorio\poo\Principio solid LSP(Tomás López)\Principio solid LSP(Tomás López)\obj\Debug\net10.0\Principio solid LSP(Tomás López).dll
+C:\Users\tomas\OneDrive - UCO\Escritorio\poo\Principio solid LSP(Tomás López)\Principio solid LSP(Tomás López)\obj\Debug\net10.0\refint\Principio solid LSP(Tomás López).dll
+C:\Users\tomas\OneDrive - UCO\Escritorio\poo\Principio solid LSP(Tomás López)\Principio solid LSP(Tomás López)\obj\Debug\net10.0\Principio solid LSP(Tomás López).pdb
+C:\Users\tomas\OneDrive - UCO\Escritorio\poo\Principio solid LSP(Tomás López)\Principio solid LSP(Tomás López)\obj\Debug\net10.0\Principio solid LSP(Tomás López).genruntimeconfig.cache
+C:\Users\tomas\OneDrive - UCO\Escritorio\poo\Principio solid LSP(Tomás López)\Principio solid LSP(Tomás López)\obj\Debug\net10.0\ref\Principio solid LSP(Tomás López).dll
+C:\Users\tomas\OneDrive - UCO\Escritorio\poo\Principio solid LSP(Tomás López)\Principio solid LSP(Tomás López)\obj\Debug\net10.0\Principi.0469AE9F.Up2Date

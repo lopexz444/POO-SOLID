@@ -1,0 +1,15 @@
+C:\Users\tomas\OneDrive - UCO\Escritorio\poo\Principio Solid DIP(Tomás López)\Principio Solid DIP(Tomás López)\bin\Debug\net10.0\Principio Solid DIP(Tomás López).exe
+C:\Users\tomas\OneDrive - UCO\Escritorio\poo\Principio Solid DIP(Tomás López)\Principio Solid DIP(Tomás López)\bin\Debug\net10.0\Principio Solid DIP(Tomás López).deps.json
+C:\Users\tomas\OneDrive - UCO\Escritorio\poo\Principio Solid DIP(Tomás López)\Principio Solid DIP(Tomás López)\bin\Debug\net10.0\Principio Solid DIP(Tomás López).runtimeconfig.json
+C:\Users\tomas\OneDrive - UCO\Escritorio\poo\Principio Solid DIP(Tomás López)\Principio Solid DIP(Tomás López)\bin\Debug\net10.0\Principio Solid DIP(Tomás López).dll
+C:\Users\tomas\OneDrive - UCO\Escritorio\poo\Principio Solid DIP(Tomás López)\Principio Solid DIP(Tomás López)\bin\Debug\net10.0\Principio Solid DIP(Tomás López).pdb
+C:\Users\tomas\OneDrive - UCO\Escritorio\poo\Principio Solid DIP(Tomás López)\Principio Solid DIP(Tomás López)\obj\Debug\net10.0\Principio Solid DIP(Tomás López).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tomas\OneDrive - UCO\Escritorio\poo\Principio Solid DIP(Tomás López)\Principio Solid DIP(Tomás López)\obj\Debug\net10.0\Principio Solid DIP(Tomás López).AssemblyInfoInputs.cache
+C:\Users\tomas\OneDrive - UCO\Escritorio\poo\Principio Solid DIP(Tomás López)\Principio Solid DIP(Tomás López)\obj\Debug\net10.0\Principio Solid DIP(Tomás López).AssemblyInfo.cs
+C:\Users\tomas\OneDrive - UCO\Escritorio\poo\Principio Solid DIP(Tomás López)\Principio Solid DIP(Tomás López)\obj\Debug\net10.0\Principio Solid DIP(Tomás López).csproj.CoreCompileInputs.cache
+C:\Users\tomas\OneDrive - UCO\Escritorio\poo\Principio Solid DIP(Tomás López)\Principio Solid DIP(Tomás López)\obj\Debug\net10.0\Principio Solid DIP(Tomás López).dll
+C:\Users\tomas\OneDrive - UCO\Escritorio\poo\Principio Solid DIP(Tomás López)\Principio Solid DIP(Tomás López)\obj\Debug\net10.0\refint\Principio Solid DIP(Tomás López).dll
+C:\Users\tomas\OneDrive - UCO\Escritorio\poo\Principio Solid DIP(Tomás López)\Principio Solid DIP(Tomás López)\obj\Debug\net10.0\Principio Solid DIP(Tomás López).pdb
+C:\Users\tomas\OneDrive - UCO\Escritorio\poo\Principio Solid DIP(Tomás López)\Principio Solid DIP(Tomás López)\obj\Debug\net10.0\Principio Solid DIP(Tomás López).genruntimeconfig.cache
+C:\Users\tomas\OneDrive - UCO\Escritorio\poo\Principio Solid DIP(Tomás López)\Principio Solid DIP(Tomás López)\obj\Debug\net10.0\ref\Principio Solid DIP(Tomás López).dll
+C:\Users\tomas\OneDrive - UCO\Escritorio\poo\Principio Solid DIP(Tomás López)\Principio Solid DIP(Tomás López)\obj\Debug\net10.0\Principi.C55ED168.Up2Date

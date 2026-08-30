@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Principio solid LSP(Tomás López)/1.0.0": {
+        "runtime": {
+          "Principio solid LSP(Tomás López).dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Principio solid LSP(Tomás López)/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

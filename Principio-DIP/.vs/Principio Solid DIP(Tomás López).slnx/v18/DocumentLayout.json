@@ -1,0 +1,96 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tomas\\OneDrive - UCO\\Escritorio\\poo\\Principio Solid DIP(Tom\u00E1s L\u00F3pez)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AB48B21B-8568-43C8-95EE-0332B7D318A9}|Principio Solid DIP(Tom\u00E1s L\u00F3pez)\\Principio Solid DIP(Tom\u00E1s L\u00F3pez).csproj|c:\\users\\tomas\\onedrive - uco\\escritorio\\poo\\principio solid dip(tom\u00E1s l\u00F3pez)\\principio solid dip(tom\u00E1s l\u00F3pez)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB48B21B-8568-43C8-95EE-0332B7D318A9}|Principio Solid DIP(Tom\u00E1s L\u00F3pez)\\Principio Solid DIP(Tom\u00E1s L\u00F3pez).csproj|solutionrelative:principio solid dip(tom\u00E1s l\u00F3pez)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB48B21B-8568-43C8-95EE-0332B7D318A9}|Principio Solid DIP(Tom\u00E1s L\u00F3pez)\\Principio Solid DIP(Tom\u00E1s L\u00F3pez).csproj|c:\\users\\tomas\\onedrive - uco\\escritorio\\poo\\principio solid dip(tom\u00E1s l\u00F3pez)\\principio solid dip(tom\u00E1s l\u00F3pez)\\servicionotificacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB48B21B-8568-43C8-95EE-0332B7D318A9}|Principio Solid DIP(Tom\u00E1s L\u00F3pez)\\Principio Solid DIP(Tom\u00E1s L\u00F3pez).csproj|solutionrelative:principio solid dip(tom\u00E1s l\u00F3pez)\\servicionotificacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB48B21B-8568-43C8-95EE-0332B7D318A9}|Principio Solid DIP(Tom\u00E1s L\u00F3pez)\\Principio Solid DIP(Tom\u00E1s L\u00F3pez).csproj|c:\\users\\tomas\\onedrive - uco\\escritorio\\poo\\principio solid dip(tom\u00E1s l\u00F3pez)\\principio solid dip(tom\u00E1s l\u00F3pez)\\enviarcorreo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB48B21B-8568-43C8-95EE-0332B7D318A9}|Principio Solid DIP(Tom\u00E1s L\u00F3pez)\\Principio Solid DIP(Tom\u00E1s L\u00F3pez).csproj|solutionrelative:principio solid dip(tom\u00E1s l\u00F3pez)\\enviarcorreo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB48B21B-8568-43C8-95EE-0332B7D318A9}|Principio Solid DIP(Tom\u00E1s L\u00F3pez)\\Principio Solid DIP(Tom\u00E1s L\u00F3pez).csproj|c:\\users\\tomas\\onedrive - uco\\escritorio\\poo\\principio solid dip(tom\u00E1s l\u00F3pez)\\principio solid dip(tom\u00E1s l\u00F3pez)\\ienviadormensajes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB48B21B-8568-43C8-95EE-0332B7D318A9}|Principio Solid DIP(Tom\u00E1s L\u00F3pez)\\Principio Solid DIP(Tom\u00E1s L\u00F3pez).csproj|solutionrelative:principio solid dip(tom\u00E1s l\u00F3pez)\\ienviadormensajes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1a7f2c3-8d4b-42e6-9f75-2a3b6c8e9d40}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ServicioNotificacion.cs",
+              "DocumentMoniker": "C:\\Users\\tomas\\OneDrive - UCO\\Escritorio\\poo\\Principio Solid DIP(Tom\u00E1s L\u00F3pez)\\Principio Solid DIP(Tom\u00E1s L\u00F3pez)\\ServicioNotificacion.cs",
+              "RelativeDocumentMoniker": "Principio Solid DIP(Tom\u00E1s L\u00F3pez)\\ServicioNotificacion.cs",
+              "ToolTip": "C:\\Users\\tomas\\OneDrive - UCO\\Escritorio\\poo\\Principio Solid DIP(Tom\u00E1s L\u00F3pez)\\Principio Solid DIP(Tom\u00E1s L\u00F3pez)\\ServicioNotificacion.cs",
+              "RelativeToolTip": "Principio Solid DIP(Tom\u00E1s L\u00F3pez)\\ServicioNotificacion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-30T05:54:09.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EnviarCorreo.cs",
+              "DocumentMoniker": "C:\\Users\\tomas\\OneDrive - UCO\\Escritorio\\poo\\Principio Solid DIP(Tom\u00E1s L\u00F3pez)\\Principio Solid DIP(Tom\u00E1s L\u00F3pez)\\EnviarCorreo.cs",
+              "RelativeDocumentMoniker": "Principio Solid DIP(Tom\u00E1s L\u00F3pez)\\EnviarCorreo.cs",
+              "ToolTip": "C:\\Users\\tomas\\OneDrive - UCO\\Escritorio\\poo\\Principio Solid DIP(Tom\u00E1s L\u00F3pez)\\Principio Solid DIP(Tom\u00E1s L\u00F3pez)\\EnviarCorreo.cs",
+              "RelativeToolTip": "Principio Solid DIP(Tom\u00E1s L\u00F3pez)\\EnviarCorreo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-30T05:51:43.312Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IEnviadorMensajes.cs",
+              "DocumentMoniker": "C:\\Users\\tomas\\OneDrive - UCO\\Escritorio\\poo\\Principio Solid DIP(Tom\u00E1s L\u00F3pez)\\Principio Solid DIP(Tom\u00E1s L\u00F3pez)\\IEnviadorMensajes.cs",
+              "RelativeDocumentMoniker": "Principio Solid DIP(Tom\u00E1s L\u00F3pez)\\IEnviadorMensajes.cs",
+              "ToolTip": "C:\\Users\\tomas\\OneDrive - UCO\\Escritorio\\poo\\Principio Solid DIP(Tom\u00E1s L\u00F3pez)\\Principio Solid DIP(Tom\u00E1s L\u00F3pez)\\IEnviadorMensajes.cs",
+              "RelativeToolTip": "Principio Solid DIP(Tom\u00E1s L\u00F3pez)\\IEnviadorMensajes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-30T05:50:47.359Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\tomas\\OneDrive - UCO\\Escritorio\\poo\\Principio Solid DIP(Tom\u00E1s L\u00F3pez)\\Principio Solid DIP(Tom\u00E1s L\u00F3pez)\\Program.cs",
+              "RelativeDocumentMoniker": "Principio Solid DIP(Tom\u00E1s L\u00F3pez)\\Program.cs",
+              "ToolTip": "C:\\Users\\tomas\\OneDrive - UCO\\Escritorio\\poo\\Principio Solid DIP(Tom\u00E1s L\u00F3pez)\\Principio Solid DIP(Tom\u00E1s L\u00F3pez)\\Program.cs",
+              "RelativeToolTip": "Principio Solid DIP(Tom\u00E1s L\u00F3pez)\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-30T05:46:28.82Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
